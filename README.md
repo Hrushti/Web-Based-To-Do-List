@@ -2,6 +2,7 @@
 
 #### 🦠 Known bugs:
 - Cannot delete specific tasks if they are too long
+- Pressing Enter does not add a new task
 - Newer tasks are added to the bottom
 - Not tested for mobile
 
